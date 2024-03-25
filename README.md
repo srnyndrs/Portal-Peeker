@@ -1,5 +1,4 @@
-<img src="pictures/logo.png" style="float: left; padding-right:10px;" height="32px" width="32px">
-<h1>Portal Peeker</h1>
+<h1><img src="pictures/logo.png" style="float: left; padding-right:10px;" height="32px" width="32px"> Portal Peeker</h1>
 
 <p>A simple application to search characters from the <i>Rick and Morty TV Series</i></p>
 <b><a href="https://rickandmortyapi.com/">The Rick and Morty API</a></b>
